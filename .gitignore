@@ -7,8 +7,10 @@
 /dataSources/
 /dataSources.local.xml
 
-.idea/
-.bsp/
-project/project/
-project/target/
-target/
+**/.gitignore
+!.gitignore
+**/.idea/
+**/.bsp/
+**/project/project/
+**/project/target/
+**/target/
